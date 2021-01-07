@@ -1,7 +1,6 @@
 # Engineering-Notebook
 Collection of 11 smaller embedded systems assignments. Completed November 6th, 2016. Original [wiki documentation](http://wiki.chssigma.com/index.php?title=Dani%27s_Engineering_Notebook)
-
-* [Table of Contents](#table-of-contents)
+# Table of Contents
 * [LCD Hello World](#lcd-hello-world)
 * [LCD Backpack](#lcd-backpack)
 * [Photo Interrupter](#photo-interrupter)
