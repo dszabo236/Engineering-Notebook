@@ -15,7 +15,7 @@ Collection of 11 smaller embedded systems assignments. Recommend the last few. C
 # LCD Hello World
 This project was about learning how to wire and code for the liquid crystal LCD display. There was some trouble understanding exactly how to wire the arduino. Besides that, it was just figuring out how exactly the liquid crystal LCD worked and how to manipulate it to my ne
 <p align="left">
-  <img src="media/lcdhw.png" width="250" title="hover text">
+  <img src="media/lcdhw.jpg" width="250" title="hover text">
 </p>
 
 - [code](code/code.py)
@@ -74,24 +74,24 @@ Here are three advanced solidworks assignments.
 ## Advanced Motion Study
 For this assignment, I had to create a moving assembly in Solidworks, which could then be analyzed. It consisted of four parts which were; a base, a cam, a valve, and a rocker arm. The base was just a piece that everything was connected to. The cam rotated on a pillar of the base, moving the rocker arm up. When one side of the rocker arm moved up, the other side pushed the valve down, which had a spring on it. The spring pushed the left side of the rocker arm back up, making the right side go down in accordance with the cams's movements. We had to adjust the spring we placed on the valve in order to ensure that the rocker arm didn't come off of the cam when rotating.
 <p align="left">
-  <img src="media/advancedMS.jpg" width="250" title="hover text">
+  <img src="media/advancedMS.png" width="250" title="hover text">
 </p>
 
-- [picture](media/advancedMS.jpg)
+- [picture](media/advancedMS.png)
 ## Advanced Design Features
 For this assignment I had to run through the hinge tutorial on Solidworks. I did something like this last year.
 <p align="left">
-  <img src="media/advancedDF.jpg" width="250" title="hover text">
+  <img src="media/advancedDF.png" width="250" title="hover text">
 </p>
 
-- [picture](media/advancedDF.jpg)
+- [picture](media/advancedDF.png)
 ## Stress Analysis
 For this assignment I had to create a part and then simulate what would happen if a certain amount of pressure was placed on one end of it. Then, I had to ensure that the factor of safety was above one at all points, in order to ensure there wasn't too much pressure on any one point.
 <p align="left">
-  <img src="media/stress_analysis.jpg" width="250" title="hover text">
+  <img src="media/stress_analysis.png" width="250" title="hover text">
 </p>
 
-- [picture](media/stress_analysis.jpg)
+- [picture](media/stress_analysis.png)
 # Arduino to Processing
 In this assignment I had to use Processing and Arduino. I had to wire a potentiometer, and then write arduino code that read the value of the potentiometer, in degrees. Then, I created a processing program that read the value of the potentiometer, and drew a speedometer. If the potentiometer was turned one way then the speedometer went that direction, and if the other then it went the other way. I had some trouble with the processing part because drawing an arc was new, and sin and cos were difficult to figure out.
 <p align="left">
