@@ -14,7 +14,7 @@ Collection of 11 smaller embedded systems assignments. Completed November 6th, 2
 
 # LCD Hello World
 This project was about learning how to wire and code for the liquid crystal LCD display. There was some trouble understanding exactly how to wire the arduino. Besides that, it was just figuring out how exactly the liquid crystal LCD worked and how to manipulate it to my needs.
-```python
+```
 #include <LiquidCrystal.h>
  
 LiquidCrystal lcd(7, 8, 9, 10, 11, 12);  //initializes the library with these pins
@@ -32,3 +32,6 @@ void loop() {
 ```
 - [code](code/code.py)
 - [picture](media/lcdhw.png)
+# LCD Backpack
+This sub-project was to make the LCD function with an LCD backpack, which makes it much easier to wire. When the button is pressed, the LCD counts up one. If the switch is then flipped and the button is pressed the LCD counts back one. There was some trouble ensuring that the LCD didn't count up more than one when the button was held down, so I used a boolean to make sure that it only counted up or down 1.
+```
