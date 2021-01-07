@@ -18,7 +18,7 @@ This project was about learning how to wire and code for the liquid crystal LCD 
 - [picture](media/lcdhw.png)
 # LCD Backpack
 This sub-project was to make the LCD function with an LCD backpack, which makes it much easier to wire. When the button is pressed, the LCD counts up one. If the switch is then flipped and the button is pressed the LCD counts back one. There was some trouble ensuring that the LCD didn't count up more than one when the button was held down, so I used a boolean to make sure that it only counted up or down 1.
-![The Product](media/lcdbp.jpg)
+![The Product](media/lcdbp.jpg)<img src="media/octocat.jpg" width="75">
 - [code](code/lcdbp.ino)
 - [picture](media/lcdbp.jpg)
 # Photo Interrupter
