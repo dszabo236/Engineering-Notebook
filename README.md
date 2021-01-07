@@ -31,5 +31,5 @@ void loop() {
 	lcd.print(millis() / 1000); //print number of seconds since reset
 }
 ```
-[code](code/code.py)
-[picture](media/lcdhw.png)
+- [code](code/code.py)
+- [picture](media/lcdhw.png)
