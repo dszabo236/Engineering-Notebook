@@ -18,6 +18,7 @@ This project was about learning how to wire and code for the liquid crystal LCD 
 <img src="media/lcdhw.jpg" width="150">
 - [code](code/code.py)
 - [picture](media/lcdhw.png)
+
 # LCD Backpack
 This sub-project was to make the LCD function with an LCD backpack, which makes it much easier to wire. When the button is pressed, the LCD counts up one. If the switch is then flipped and the button is pressed the LCD counts back one. There was some trouble ensuring that the LCD didn't count up more than one when the button was held down, so I used a boolean to make sure that it only counted up or down 1.
 
