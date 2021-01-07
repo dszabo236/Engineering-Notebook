@@ -15,7 +15,7 @@ Collection of 11 smaller embedded systems assignments. Recommend the last few. C
 # LCD Hello World
 This project was about learning how to wire and code for the liquid crystal LCD display. There was some trouble understanding exactly how to wire the arduino. Besides that, it was just figuring out how exactly the liquid crystal LCD worked and how to manipulate it to my ne
 <p align="left">
-  <img src="media/lcdhw.jpg" width="250" title="hover text">
+  <img src="media/lcdhw.jpg" width="250" height="250" title="hover text">
 </p>
 
 - [code](code/code.py)
